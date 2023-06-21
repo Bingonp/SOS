@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ATSApplicationFontsPath</key>
+	<string></string>
+	<key>UIAppFonts</key>
+	<array>
+		<string>DynaPuff-VariableFont_wdth,wght.ttf
+</string>
+		<string>Dongle-Regular.ttf</string>
+		<string>ConcertOne-Regular.ttf</string>
+		<string>Shrikhand-Regular.ttf</string>
+		<string>Alkatra-VariableFont_wght.ttf</string>
+	</array>
+	<key>CFBundleInfoDictionaryVersion</key>
+	<string>6.0</string>
+	<key>LSApplicationQueriesSchemes</key>
+	<array>
+		<string>comgooglemaps</string>
+	</array>
+	<key>CFBundleIdentifier</key>
+	<string></string>
+	<key>NSSpeechRecognitionUsageDescription</key>
+	<string>Please allow us to use your microphone</string>
+	<key>NSMicrophoneUsageDescription</key>
+	<string>Please allow us to use your microphone</string>
+	<key>NSLocationWhenInUseUsageDescription</key>
+	<string>Please allow us to use your location</string>
+	<key>NSLocationAlwaysUsageDescription</key>
+	<string>Please allow us to use your location</string>
+	<key>NSLocationAlwaysAndWhenInUseUsageDescription</key>
+	<string>Please allow us to use your location</string>
+	<key>NSContactsUsageDescription</key>
+	<string>Allow Contacts Access to enable usage</string>
+	<key>UIApplicationSceneManifest</key>
+	<dict>
+		<key>UIApplicationSupportsMultipleScenes</key>
+		<false/>
+		<key>UISceneConfigurations</key>
+		<dict>
+			<key>UIWindowSceneSessionRoleApplication</key>
+			<array>
+				<dict>
+					<key>UISceneConfigurationName</key>
+					<string>Default Configuration</string>
+					<key>UISceneDelegateClassName</key>
+					<string>$(PRODUCT_MODULE_NAME).SceneDelegate</string>
+					<key>UISceneStoryboardFile</key>
+					<string>Main</string>
+				</dict>
+			</array>
+		</dict>
+	</dict>
+</dict>
+</plist>
